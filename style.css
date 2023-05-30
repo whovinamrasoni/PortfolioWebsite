@@ -307,3 +307,12 @@ footer {
 .feature-image1 {
     width: 60px;
 }
+
+.holder {
+    display: flex;
+}
+
+.holder-text {
+    margin-left: 15px;
+    padding-top: 10px;
+}
